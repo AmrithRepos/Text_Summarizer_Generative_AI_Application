@@ -11,3 +11,17 @@ A simple web application to summarize long pieces of text into concise summaries
 <li>AI Model: Facebook BART (via Hugging Face Transformers)</li>
 <li>Frontend: HTML, CSS (Dark theme styling)</li>
 <li>Deployment: Can be run locally or deployed to a cloud platform.</li>
+
+<h2>Usage 📖</h2>
+<li>Enter Text: Paste or type the text you want to summarize into the input box.</li>
+<li>Click Summarize: Hit the "Summarize" button to generate the summary.</li>
+<li>View History: Scroll down to see the history of previously summarized texts.</li>
+
+<h2>Demo</h2>
+<img src=""C:\Users\amrit\Downloads\Screenshot 2025-02-07 125236.png"" alt="Demo1" width="500">
+<img src=""C:\Users\amrit\Downloads\Screenshot 2025-02-07 125157.png"" alt="Demo2" width="500">
+
+
+
+
+
