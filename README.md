@@ -18,8 +18,8 @@ A simple web application to summarize long pieces of text into concise summaries
 <li>View History: Scroll down to see the history of previously summarized texts.</li>
 
 <h2>Demo</h2>
-<img src=""C:\Users\amrit\Downloads\Screenshot 2025-02-07 125236.png"" alt="Demo1" width="500">
-<img src=""C:\Users\amrit\Downloads\Screenshot 2025-02-07 125157.png"" alt="Demo2" width="500">
+<img src="C:\Users\amrit\OneDrive - Syracuse University\Desktop\Text_Summarization\Screenshot 2025-02-07 125157.png" alt="Demo1" width="500">
+<img src="C:\Users\amrit\OneDrive - Syracuse University\Desktop\Text_Summarization\Screenshot 2025-02-07 125236.png" alt="Demo2" width="500">
 
 
 
