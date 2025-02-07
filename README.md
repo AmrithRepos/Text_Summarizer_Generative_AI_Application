@@ -18,8 +18,14 @@ A simple web application to summarize long pieces of text into concise summaries
 <li>View History: Scroll down to see the history of previously summarized texts.</li>
 
 <h2>Demo</h2>
-<img src="C:\Users\amrit\OneDrive - Syracuse University\Desktop\Text_Summarization\Screenshot 2025-02-07 125157.png" alt="Demo1" width="500">
-<img src="C:\Users\amrit\OneDrive - Syracuse University\Desktop\Text_Summarization\Screenshot 2025-02-07 125236.png" alt="Demo2" width="500">
+<img width="719" alt="Screenshot 2025-02-07 125157" src="https://github.com/user-attachments/assets/9c638eef-7474-4ed8-ae13-d8e4a2481de6" />
+
+<img width="679" alt="Screenshot 2025-02-07 125236" src="https://github.com/user-attachments/assets/5cb22199-02f3-4b5c-8db8-4de6b5f994c3" />
+
+<h2>Credits</h2>
+<li>Model: Facebook BART (via Hugging Face Transformers)</li>
+<li>Framework: Flask</li>
+<li>Design: Amrith</li>
 
 
 
